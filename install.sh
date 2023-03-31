@@ -1,0 +1,13 @@
+clear
+sleep 1.5
+#exit
+apt update 
+apt upgrade 
+apt install git -y
+clear
+git clone https://github.com/Noob-hacker369/fix-metasploit
+cd fix-metasploit
+clear
+bash install.sh
+bash main.sh
+
