@@ -5,7 +5,7 @@ apt update
 apt upgrade 
 apt install git -y
 clear
-git clone https://github.com/Noob-hacker369/fix-metasploit
+git clone https://github.com/Mostafaayman666/fix-metasploit-main
 cd fix-metasploit
 clear
 bash install.sh
